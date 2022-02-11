@@ -31,3 +31,27 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  margin:30px;
+  border:1px solid black;
+  background-color:teal;
+  color:white;
+  padding:10px;
+  width:30vw;
+  
+}
+.cardFooter{
+  padding:5px;
+
+
+}
+button{
+  width:15vw;
+  height:4vh;
+}
+.App{
+  display:flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex:10;
+}
